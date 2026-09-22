@@ -16,7 +16,7 @@ Use the Tavily Search API to find current information. The API key is in `~/.bas
 Run a curl command like this:
 
 ```bash
-source ~/.bash_env && curl -s 'https://api.tavily.com/search' \
+source ~/.bash-env && curl -s 'https://api.tavily.com/search' \
   -H 'Content-Type: application/json' \
   -d "$(cat <<ENDJSON
 {

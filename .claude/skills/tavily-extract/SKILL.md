@@ -18,7 +18,7 @@ Parse the arguments: the first argument(s) that look like URLs are the targets. 
 ### Single URL
 
 ```bash
-source ~/.bash_env && curl -s 'https://api.tavily.com/extract' \
+source ~/.bash-env && curl -s 'https://api.tavily.com/extract' \
   -H 'Content-Type: application/json' \
   -d "$(cat <<ENDJSON
 {
@@ -35,7 +35,7 @@ ENDJSON
 ### Multiple URLs
 
 ```bash
-source ~/.bash_env && curl -s 'https://api.tavily.com/extract' \
+source ~/.bash-env && curl -s 'https://api.tavily.com/extract' \
   -H 'Content-Type: application/json' \
   -d "$(cat <<ENDJSON
 {
