@@ -25,8 +25,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/bluefermion/feedback/internal/handler"
-	"github.com/bluefermion/feedback/internal/repository"
+	"github.com/patdeg/feedback/internal/handler"
+	"github.com/patdeg/feedback/internal/repository"
 	"github.com/joho/godotenv"
 )
 

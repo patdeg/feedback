@@ -23,9 +23,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bluefermion/feedback/internal/model"
-	"github.com/bluefermion/feedback/internal/repository"
-	"github.com/bluefermion/feedback/internal/selfhealing"
+	"github.com/patdeg/feedback/internal/model"
+	"github.com/patdeg/feedback/internal/repository"
+	"github.com/patdeg/feedback/internal/selfhealing"
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/extension"
 	"github.com/yuin/goldmark/renderer/html"

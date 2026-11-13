@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/bluefermion/feedback/internal/model"
+	"github.com/patdeg/feedback/internal/model"
 )
 
 // TestCanTriggerRefusesWhileKillswitchEngaged proves the lockout outranks

@@ -23,8 +23,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bluefermion/feedback/internal/model"
-	"github.com/bluefermion/feedback/internal/watchdog"
+	"github.com/patdeg/feedback/internal/model"
+	"github.com/patdeg/feedback/internal/watchdog"
 )
 
 // Config aggregates all settings for the self-healing subsystem.

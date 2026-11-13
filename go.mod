@@ -1,4 +1,4 @@
-module github.com/bluefermion/feedback
+module github.com/patdeg/feedback
 
 go 1.24.0
 

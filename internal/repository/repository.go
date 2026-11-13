@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bluefermion/feedback/internal/model"
+	"github.com/patdeg/feedback/internal/model"
 	// We use the modernc.org/sqlite driver because it's a pure Go implementation (no CGO required).
 	// This makes cross-compilation and deployment (e.g., in minimal Docker containers) extremely easy.
 	_ "modernc.org/sqlite"

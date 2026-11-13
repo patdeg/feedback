@@ -312,7 +312,7 @@ flowchart TB
 ### Option 1: Just the Widget (5 minutes)
 
 ```bash
-git clone https://github.com/bluefermion/feedback.git
+git clone https://github.com/patdeg/feedback.git
 cd feedback
 make run
 ```
@@ -323,7 +323,7 @@ Open http://localhost:8080/demo and click the orange button.
 
 ```bash
 # Clone and configure
-git clone https://github.com/bluefermion/feedback.git
+git clone https://github.com/patdeg/feedback.git
 cd feedback
 make setup   # Creates .env from template
 
@@ -455,7 +455,7 @@ See [LICENSE](LICENSE) for details.
 
 We build tools that make engineering teams more effective. This feedback service powers real applications at [demeterics.ai](https://demeterics.ai).
 
-Questions? Ideas? [Open an issue](https://github.com/bluefermion/feedback/issues) or reach out at [bluefermionlabs.com](https://bluefermionlabs.com).
+Questions? Ideas? [Open an issue](https://github.com/patdeg/feedback/issues) or reach out at [bluefermionlabs.com](https://bluefermionlabs.com).
 
 ---
 

@@ -23,7 +23,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/bluefermion/feedback/internal/model"
+	"github.com/patdeg/feedback/internal/model"
 )
 
 // LLMAnalyzer manages the conversation state and tool execution loop.
